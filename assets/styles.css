@@ -1,0 +1,30 @@
+h1,
+h2{
+	color:rgb(9, 9, 138);
+	text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+
+h3{
+    color: burlywood;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+table{
+    border: 1px solid black;
+    text-align: center;
+
+    th{
+        color: blueviolet;
+        border: 1px solid black;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+       
+    }
+
+    td{
+        border: 1px solid black;
+       
+    }
+}
