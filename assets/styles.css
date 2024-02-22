@@ -67,6 +67,12 @@ body {
     
 }
 
-
+.titre {
+    background-image: url("escalade.jpg");
+    background-size: fixed; 
+    background-position: center;
+    color: rgb(225, 225, 243);
+    
+}
 
 
