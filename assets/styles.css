@@ -27,16 +27,9 @@ table {
     width: 50%;
     margin: 0 auto;
     text-align: center; 
-}
-
-.biggest-table {
-    width: 100%;
     table-layout: fixed;
 }
 
-.biggest-table th {
-    text-align: center;
-}
 
 th, td {
     color: blueviolet;
@@ -45,8 +38,9 @@ th, td {
 }
 
 p, li, tbody, tbody>tr>td {
-    text-align: center;
+    text-align: auto;
 }
+
 
 img {
     display: block;
@@ -67,7 +61,7 @@ body {
     
 }
 
-.titre {
+header {
     background-image: url("escalade.jpg");
     background-size: fixed; 
     background-position: center;
